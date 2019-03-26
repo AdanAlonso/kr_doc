@@ -7,3 +7,16 @@
 .reveal h6 {
   font-family: 'Noto Sans JP', sans-serif !important;
 }
+
+.reveal p {
+  font-size: 0.9em;
+}
+
+img.poster {
+  float: left;
+  width: 300px;
+}
+
+img.theme {
+  width: 250px;
+}
