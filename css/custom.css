@@ -20,3 +20,8 @@ img.poster {
 img.theme {
   width: 250px;
 }
+
+#conclusion img {
+  width: 300px;
+  margin: 5px 0;
+}
